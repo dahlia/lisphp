@@ -1,3 +1,0 @@
-(use substr)
-(echo (+ 1 2) (substr "hello" 2}
-(echo "test")
